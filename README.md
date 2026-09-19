@@ -21,6 +21,7 @@ Aplikasi web berbasis Python untuk memecahkan masalah Romania menggunakan algori
 ├── algorithms.py       # Implementasi algoritma Greedy BFS dan A* Search
 ├── romania_data.py     # Data peta Romania, koordinat kota, dan nilai heuristik
 ├── requirements.txt    # Daftar dependensi library Python
+├── assets/             # Gambar preview aplikasi
 └── README.md           # Dokumentasi tugas
 ```
 
@@ -47,3 +48,7 @@ Aplikasi web berbasis Python untuk memecahkan masalah Romania menggunakan algori
 ---
 
 ## Preview
+
+![Preview 1](assets/preview1.png)
+
+![Preview 2](assets/preview2.png)
