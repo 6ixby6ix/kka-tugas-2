@@ -48,7 +48,10 @@ Aplikasi web berbasis Python untuk memecahkan masalah Romania menggunakan algori
 ---
 
 ## Preview
-
+Algoritma A*
 ![Preview 1](assets/preview1.png)
 
+Algoritma Greedy BFS
 ![Preview 2](assets/preview2.png)
+
+
