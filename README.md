@@ -12,6 +12,8 @@
 
 Aplikasi web berbasis Python untuk memecahkan masalah Romania menggunakan algoritma A* dan Greedy BFS (Informed Search). User dapat menginput titik awal dan juga titik akhir, beserta algoritma pencarian yang ingin digunakan.
 
+Link website: https://kka-romania-problem-pandutama.streamlit.app/
+
 ---
 
 ## Struktur Berkas
